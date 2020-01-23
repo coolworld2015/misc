@@ -4,7 +4,7 @@
     "express": "^4.13.1",
     "express-http-proxy": "^1.6.0",
     "http-proxy": "^1.18.0",
-    "mongoose": "^4.0.7",
+    "mongoose": "^5.8.9",
     "request": "^2.88.0"
   }
 }
